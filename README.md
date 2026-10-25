@@ -1,10 +1,10 @@
-## Hi there, this is zhioak 👋 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=zhioak.zhioak)
+## Hi there, this is jeoyee 👋 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=zhioak.zhioak)
 
 ## About Me
 
-- 一个后端攻城狮
-- 天津人在北京工作
-- 人邋遢，代码向往简洁
+- 后端攻城狮
+- 天津人在天津工作
+- 人邋遢，代码想简洁
 - ~~这有我写的一些博客: <a href="https://www.zhioak.blog">zhioak.blog</a>~~（没钱续倒闭了）
 
 ## About Blog
@@ -12,7 +12,7 @@
 - 记录生活、学习，和一些不常操作容易忘的东西，顺便还能练练写作。也让我闲的难受时找点事做，这应该会比我刷一晚上视频强吧
 - 开始只想巩固一下React，做个照片分享列表页，后面越开发想加的东西越多，导致暂时没有动力了。干脆先发一版出来，以后再慢慢迭代吧。因此**这个博客还处于施工阶段，并且永远也开发不完**
 - 目前[博客前端已开源](https://github.com/zhioak/blog-react)，服务端和管理端功能还没完善，并且看以前的代码越看越Low，暂时闭源
-- 2021...没动力了也没钱续了。倒闭
+- 2021...没动力，也没钱续了。倒闭
 
 ## Tech Stack
 
